@@ -1,8 +1,9 @@
 ## Hi 👋 I'm Shaniel Samadhan 🐒
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=eSaniello)
+
 I build stuff and trade man, k. bye.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eSaniello)
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=eSaniello&show_icons=true&theme=dark&custom_title=GitHub%20Stats&hide_border=true" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eSaniello&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 
 ## Wanna have a chat? ☕
