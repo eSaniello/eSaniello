@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Shaniel Samadhan 🐒
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eSaniello)
+![](https://komarev.com/ghpvc/?username=esaniello)
 
 I build stuff and trade man, k. bye.
 
