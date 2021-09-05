@@ -1,4 +1,4 @@
-## Hi 👋 I'm Shaniel Samadhan 🐒
+## Hi 👋 I'm Shaniel 🐒
 
 ![](https://komarev.com/ghpvc/?username=esaniello)
 
