@@ -2,9 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=esaniello)
 
-I'm a software developer and trader.
+I run [Bits Please Technologies](www.bitsplease.org) 
+
+We build software to make your business better!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eSaniello&show_icons=true&theme=dark)](https://github.com/eSaniello)
 
-## Wanna have a chat? ☕
-You can find me on [Twitter](https://twitter.com/shaniel292) | Send me an [email](mailto:shaniel29samadhan@gmail.com) | DM me on [Telegram](https://t.me/esaniello)
+## Want us to build something cool for u? 👀
+Send me an [email](mailto:info@bitsplease.org) | DM me on [Telegram](https://t.me/esaniello)
+
+## Wanna work with us to build cool stuff? 💻
+Apply for one of our open vacancies [here](www.bitsplease.org/vacancies)
