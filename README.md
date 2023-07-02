@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=esaniello)
 
-I run [Bits Please Technologies](www.bitsplease.org) 
+I run [Bits Please Technologies](https://www.bitsplease.org) 
 
 We build software to make your business better!
 
@@ -12,4 +12,4 @@ We build software to make your business better!
 Send me an [email](mailto:info@bitsplease.org) | DM me on [Telegram](https://t.me/esaniello)
 
 ## Wanna work with us to build cool stuff? 💻
-Apply for one of our open vacancies [here](www.bitsplease.org/vacancies)
+Apply for one of our open vacancies [here](https://www.bitsplease.org/vacancies)
