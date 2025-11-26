@@ -6,8 +6,6 @@ I run [Bits Please Technologies](https://www.bitsplease.org)
 
 We build software to make your business better!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eSaniello&show_icons=true&theme=dark)](https://github.com/eSaniello)
-
 ## Want us to build something cool for u? 👀
 Send me an [email](mailto:info@bitsplease.org) | DM me on [Telegram](https://t.me/esaniello)
 
